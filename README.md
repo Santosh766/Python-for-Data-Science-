@@ -5,3 +5,5 @@ It contains the notebook of jupyter notebook which comprised with basic and adva
 2. Numpy
 3. Matplotplob
 4. Seaborn
+
+![image](https://user-images.githubusercontent.com/65527534/151836924-60ba314b-d34a-4788-b6ad-6e75d71660fa.png)
